@@ -1,0 +1,398 @@
+[
+    {
+        "path": "G_856.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.008285999298095703,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_795.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.009084463119506836,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_776.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.009084463119506836,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_763.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.008474111557006836,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_842.bmp",
+        "items": [
+            {
+                "cls": 4,
+                "point": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.8680964915563891,
+                        0.4963954888468349
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [NaN, NaN
+                    ]
+                ],
+                "conf": 0.26545611023902893
+            }
+        ],
+        "time": 0.008679628372192383,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_777.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.009182214736938477,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_843.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.01077413558959961,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_824.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.00864410400390625,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_827.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.0071294307708740234,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_761.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.007124423980712891,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_809.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.008078813552856445,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_794.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.009244203567504883,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_760.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.007645845413208008,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_857.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.011418581008911133,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_811.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.010401725769042969,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_778.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.007311105728149414,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_810.bmp",
+        "items": [
+            {
+                "cls": 4,
+                "point": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.8671676704794695,
+                        0.498016296194422
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [NaN, NaN
+                    ]
+                ],
+                "conf": 0.2661363184452057
+            }
+        ],
+        "time": 0.008433818817138672,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_762.bmp",
+        "items": [
+            {
+                "cls": 4,
+                "point": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.8673487845760334,
+                        0.4977007995718691
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [NaN, NaN
+                    ]
+                ],
+                "conf": 0.2552785575389862
+            }
+        ],
+        "time": 0.009656667709350586,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_808.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.0095672607421875,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_841.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.011527776718139648,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_779.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.010829448699951172,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_840.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.009152650833129883,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_826.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.00854039192199707,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_792.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.008364200592041016,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_858.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.007489442825317383,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_793.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.007678508758544922,
+        "image_width": 512,
+        "image_height": 512
+    },
+    {
+        "path": "G_825.bmp",
+        "items": [
+            {
+                "cls": -1,
+                "point": [],
+                "conf": 0
+            }
+        ],
+        "time": 0.007355928421020508,
+        "image_width": 512,
+        "image_height": 512
+    }
+]

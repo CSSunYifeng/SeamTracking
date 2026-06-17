@@ -1,0 +1,234 @@
+[
+    {
+        "model_name": "omnipose_mod_2stage",
+        "results": [
+            "omnipose_mod_2stage",
+            0.007843971252441406,
+            16.82217624,
+            1.0,
+            0.0,
+            0.0,
+            6.133510843802036,
+            2.7046237706894947,
+            7.314989740978661,
+            9.986666363737319,
+            2.3391477412289645,
+            0.0,
+            0.5,
+            3.09360269712344,
+            1.531413196361134,
+            2.345226377989025,
+            5.6226270926568995,
+            1.5925199155474248
+        ],
+        "loc_map_keys": [
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp"
+        ],
+        "angular_map": [
+            [
+                1.5925199155474248,
+                5.6226270926568995
+            ],
+            [
+                7.072143869384649,
+                0.36868654845592547
+            ],
+            [
+                5.766227292183584,
+                7.5143692161934155
+            ],
+            [
+                2.8985046082910157,
+                2.2607591719984215
+            ]
+        ],
+        "valid_mask": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "loc_map_src_keys": []
+    },
+    {
+        "model_name": "hrnet_mod_2stage",
+        "results": [
+            "hrnet_mod_2stage",
+            0.006485700607299805,
+            16.328687616,
+            1.0,
+            1.0,
+            1.0,
+            1.7403276896113948,
+            1.05772504129556,
+            1.1187822629836945,
+            3.345563291205614,
+            0.788293605979945,
+            1.0,
+            1.0,
+            1.8817080906505814,
+            1.886812633111771,
+            3.5600619124701747,
+            4.909784855295542,
+            0.13838017890206752
+        ],
+        "loc_map_keys": [
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp"
+        ],
+        "angular_map": [
+            [
+                0.4626365733402882,
+                2.016030755064427
+            ],
+            [
+                8.201916964536839,
+                7.26960657719809
+            ],
+            [
+                8.803595357759917,
+                10.163421681745795
+            ],
+            [
+                0.13838017890206752,
+                4.909784855295542
+            ]
+        ],
+        "valid_mask": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "loc_map_src_keys": []
+    },
+    {
+        "model_name": "cn_resnet18_decoder",
+        "results": [
+            "cn_resnet18_decoder",
+            0.005281686782836914,
+            13.102874624,
+            1.0,
+            0.0,
+            0.0,
+            104.96845851677665,
+            96.09302692501355,
+            9233.869823611378,
+            202.91229582920798,
+            5.217852273498501,
+            1.0,
+            1.0,
+            3.7394003881624043,
+            3.349479423767474,
+            11.21901241024169,
+            8.183751502366531,
+            0.48075540639087083
+        ],
+        "loc_map_keys": [
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp"
+        ],
+        "angular_map": [
+            [
+                0.48075540639087083,
+                0.5195646248989453
+            ],
+            [
+                8.183751502366531,
+                5.77353001899327
+            ]
+        ],
+        "valid_mask": [
+            true,
+            true,
+            true,
+            true
+        ],
+        "loc_map_src_keys": []
+    },
+    {
+        "model_name": "cn_resnet50_decoder",
+        "results": [
+            "cn_resnet50_decoder",
+            0.009734153747558594,
+            25.257050112,
+            1.0,
+            0.0,
+            0.0,
+            6.352541091166237,
+            3.1028399627531122,
+            9.627615834457735,
+            11.36468529399415,
+            3.4250876665942536,
+            0.5,
+            0.5,
+            2.433732051132652,
+            1.4677096857216707,
+            2.1541717215612053,
+            4.717410611462745,
+            0.6195498365956978
+        ],
+        "loc_map_keys": [
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp",
+            "/workspace/st_dl/data/mult_test/test/G_760.bmp"
+        ],
+        "angular_map": [
+            [
+                0.6195498365956978,
+                4.717410611462745
+            ],
+            [
+                8.045092963200199,
+                0.5360353533292167
+            ],
+            [
+                10.867457502775943,
+                7.448769251126503
+            ],
+            [
+                2.202765573274674,
+                2.195202183197492
+            ]
+        ],
+        "valid_mask": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "loc_map_src_keys": []
+    }
+]
